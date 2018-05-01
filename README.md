@@ -6,3 +6,7 @@ This repo explores the implementation of various algorithms within the ML space.
 
 ### XGBoost vs FastAI (Pytorch) ConvNet on Categorical data
 - [PartI](https://github.com/winterdelta/CompassAI/blob/master/XGBoostVSConvNet.ipynb): Implementing XGBoost on One-Hot-Encoded data.
+
+### Articles
+
+Implementing [One Hot Encoding](https://medium.com/@winterdelta/implementing-xgboost-to-predict-kickstarter-success-a7c23920a67d).
